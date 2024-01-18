@@ -1,2 +1,1 @@
-# rgkk-lab
-Distributed Ledgers and Cryptocurrencies course laboratory exercises.
+https://www.fer.unizg.hr/predmet/rgkk_b
